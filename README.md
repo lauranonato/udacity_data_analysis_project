@@ -10,5 +10,3 @@ To address this problem, I will conduct a thorough data analysis to identify ins
 **THE FULL DATA ANALYSIS PROCESS TAKEN IN THE PROJECT:** 
 
 Question phase > Wrangle > Explore > Draw Conclusions > Communicate
-
-![image](https://github.com/lauranonato/udacity_data_analysis_project/assets/56266061/208869ee-de1b-4330-be01-d5a5797d0751)
