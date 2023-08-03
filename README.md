@@ -10,3 +10,7 @@ To address this problem, I will conduct a thorough data analysis to identify ins
 **THE FULL DATA ANALYSIS PROCESS TAKEN IN THE PROJECT:** 
 
 Question phase > Wrangle > Explore > Draw Conclusions > Communicate
+
+Project stack: python and jupyternotebook 🔎🎲
+
+Source: Intro to Data Analysis (Udacity)
